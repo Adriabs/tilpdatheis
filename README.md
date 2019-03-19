@@ -1,2 +1,2 @@
 # tilpdatheis
-Heisprosjekt i tilpassede datasystemer
+Elevator project for the NTNU course "Tilpassede Datasystemer"
